@@ -160,6 +160,7 @@ footer {
 /***** End of Navbar Styling *****/
 
 /***** Video Styling *****/
+
 /* Formatting for background video */
 #Typing_Video {
     position: fixed; 
@@ -169,7 +170,6 @@ footer {
     z-index: -1; 
     filter: grayscale(70%);
 }
-
 
 @media screen and (max-width: 576px) {
     #Typing_Video {
